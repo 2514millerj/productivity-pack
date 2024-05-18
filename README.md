@@ -17,7 +17,7 @@ The productivity pack includes:
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 * [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 * [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-
+* [MeerkatIO](https://marketplace.visualstudio.com/items?itemName=MeerkatIO.meerkatio)
 
 ## Why should you use these extensions? 
 
@@ -129,6 +129,14 @@ Settings Sync synchronizes settings, snippets, themes, file icons, launch, keybi
 
 <p align="center" style="margin: 0 10%">
   <img src="https://media.giphy.com/media/xT9Iglsi3CS9noE8tW/source.gif" alt="Settings Sync for VS Code" />
+</p>
+
+### MeerkatIO
+
+MeerkatIO is the personal notification tool that allows you to use the notification channel that fits your workflow. This one extension immediately opens the door to any notification method you need to save time in your day, integrating with all of the built in tools already at your fingertips including Jupyter Notebooks, custom VS Code tasks, and the Run and Debug Tool. Available communication channels include sound ping, system tray, Slack, SMS, Email, Discord, and more are being added all the time.
+
+<p align="center" style="margin: 0 10%">
+  <img src="https://meerkatio.com/static/images/jupyter-extension.png" alt="Notification Tool for VS Code" />
 </p>
 
 ## Have a suggestion? 

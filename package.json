@@ -32,6 +32,7 @@
         "sleistner.vscode-fileutils", 
         "streetsidesoftware.code-spell-checker", 
         "Shan.code-settings-sync", 
-        "alefragnani.project-manager"
+        "alefragnani.project-manager",
+        "MeerkatIO.meerkatio"
     ]
 }
